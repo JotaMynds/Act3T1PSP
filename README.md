@@ -58,6 +58,7 @@ Aquí la prueba de haberlo ejecutado en la terminal 👇
 
 ![Captura de ejecución](captura.png)
 
+Como podemos observarse hace la comprobación en el cmd, se puede ver el código y la ejecución completada perfectamente
 ---
 
 ## 📄 Archivo de entrada de ejemplo
