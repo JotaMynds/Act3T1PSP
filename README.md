@@ -60,6 +60,23 @@ Aquí la prueba de haberlo ejecutado en la terminal 👇
 
 ---
 
+## 📄 Archivo de entrada de ejemplo
+
+Dentro del proyecto **LectorTexto**, en la carpeta de recursos, se incluye un archivo de ejemplo llamado:
+```
+LectorTexto/src/main/resources/entrada.txt
+```
+
+### Contenido de `entrada.txt`
+
+```txt
+Hola Fernando que haces por aqui mi pana
+te esperan en la carrera compa
+vente rey
+```
+
+Este archivo sirve como ejemplo de entrada para probar la ejecución en cadena con los otros módulos.
+---
 ## ⚙️ Cómo usarlo
 
 1. Clona el repositorio:
