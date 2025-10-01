@@ -58,8 +58,6 @@ Aquí la prueba de haberlo ejecutado en la terminal 👇
 
 ![Captura de ejecución](captura.png)
 
-*(Asegúrate de que tu imagen se llame **captura.png** y esté en la raíz del repositorio para que se muestre correctamente.)*
-
 ---
 
 ## ⚙️ Cómo usarlo
