@@ -19,6 +19,38 @@ Cada proyecto genera su propio archivo JAR:
 
 ---
 
+## 📂 Estructura del proyecto
+
+La estructura del repositorio sigue el estándar de proyectos **Maven**:
+
+Act3T1PSP/
+├── LectorTexto/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/ # Código fuente de LectorTexto
+│ │ │ └── resources/ # Archivos de recursos (ej: entrada.txt)
+│ └── target/ # JAR generado tras compilar
+│
+├── FiltrarLineas/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/ # Código fuente de FiltrarLineas
+│ │ │ └── resources/
+│ └── target/ # JAR generado tras compilar
+│
+├── ContadorPalabras/
+│ ├── src/
+│ │ ├── main/
+│ │ │ ├── java/ # Código fuente de ContadorPalabras
+│ │ │ └── resources/
+│ └── target/ # JAR generado tras compilar
+│
+├── Caputra.png # Es la captura del Readme.md
+└── README.md # Documentación principal del proyecto
+
+Esta organización facilita la compilación y ejecución de cada módulo de forma independiente, y mantiene separado el código fuente, los recursos y los artefactos compilados.
+
+---
 ## ❓ ¿Qué son las tuberías?
 
 Las **tuberías** (`|`) permiten que la salida de un programa se use como entrada de otro.  
