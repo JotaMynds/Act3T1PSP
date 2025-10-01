@@ -23,6 +23,7 @@ Cada proyecto genera su propio archivo JAR:
 
 La estructura del repositorio sigue el estándar de proyectos **Maven**:
 
+```
 Act3T1PSP/
 ├── LectorTexto/
 │ ├── src/
@@ -47,6 +48,7 @@ Act3T1PSP/
 │
 ├── Caputra.png # Es la captura del Readme.md
 └── README.md # Documentación principal del proyecto
+```
 
 Esta organización facilita la compilación y ejecución de cada módulo de forma independiente, y mantiene separado el código fuente, los recursos y los artefactos compilados.
 
